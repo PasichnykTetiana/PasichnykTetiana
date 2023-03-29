@@ -23,4 +23,4 @@
 ![](https://img.shields.io/badge/Strapi-CRM-informational?style=flat-square&logo=strapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GraphQL-API-informational?style=flat-square&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Apollo-API-informational?style=flat-square&logo=apollographql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Node.js-UI_Framework-informational?style=flat-square&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Node.js-JavaScript_platform-informational?style=flat-square&logo=node.js&logoColor=white&color=2bbc8a)
